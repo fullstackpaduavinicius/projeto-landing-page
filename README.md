@@ -1,6 +1,6 @@
 # projeto-landing-page
 Projeto de desenvolvimento modulo base escola DNC.
-Landing Page Interativa - Produto Deslumbrante
+Landing Page Interativa - 
 Visão Geral
 Esta é uma landing page projetada para promover um produto, oferecendo um PDF exclusivo como recompensa para os visitantes. A página é projetada para ser simples, interativa e altamente eficaz na captura de dados de clientes em potencial, incluindo nome, número de telefone e e-mail.
 
@@ -29,3 +29,5 @@ CSS3 (com animações e transições)
 JavaScript (para interatividade)
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste repositório, fazer suas alterações e enviar um pull request. Se você tiver ideias para melhorias ou novas funcionalidades, ficarei feliz.
+
+Uma landing page é uma ferramenta essencial no arsenal de marketing digital de qualquer empresa. Projetada com um propósito específico em mente, uma landing page pode desempenhar várias funções cruciais para impulsionar o sucesso de um negócio online.Marketing de Produto ou Serviço, Lançamento de Produto, Geração de Leads, Eventos ou Webinars, Venda de Produtos Digitais, Testes A/B e Otimização de Conversão. Essas são a penas alguns exempos de onde uma landing page pode ser usada.
